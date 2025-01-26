@@ -9,3 +9,4 @@ requests
 flask
 groq
 openai
+discord.py-self
